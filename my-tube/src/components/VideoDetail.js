@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; 
 
 // video is referenced from inside prop being passed
 
